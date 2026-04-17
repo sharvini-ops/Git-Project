@@ -1,5 +1,0 @@
-java source code
-     |
-byte code(runs in machine where jvm is installed)
-   |
-JVM
