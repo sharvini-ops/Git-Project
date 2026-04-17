@@ -7,5 +7,6 @@ public class temp {
 
     public static void println(String message) {
         System.out.println("message");
+        System.out.println("Newwww");
     }
 }
